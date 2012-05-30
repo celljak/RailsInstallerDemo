@@ -1,0 +1,6 @@
+1338343788
+WelcomeController	C:/Sites/railsInstaller_demo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	C:/Sites/railsInstaller_demo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	C:/Sites/railsInstaller_demo/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	C:/Sites/railsInstaller_demo/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	C:/Sites/railsInstaller_demo/app/controllers/welcome_controller.rb	  def index
