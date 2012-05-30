@@ -1,4 +1,4 @@
-1338350158
+1338351117
 WelcomeController	C:/Sites/railsInstaller_demo/app/controllers/welcome_controller.rb	class WelcomeController 
 WelcomeControllerTest	C:/Sites/railsInstaller_demo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
 WelcomeHelper	C:/Sites/railsInstaller_demo/app/helpers/welcome_helper.rb	module WelcomeHelper
